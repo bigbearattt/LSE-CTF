@@ -8,7 +8,7 @@
 
 > `$ gcc crackme80 -o crackme`
 
-> Sử dụng IDA pro để đọc file `crackme` ta có:
+> Sử dụng IDA pro để đọc file `crackme` [source file](crackme) ta có:
 
 ```C
 int __cdecl main(int argc, const char **argv, const char **envp)
